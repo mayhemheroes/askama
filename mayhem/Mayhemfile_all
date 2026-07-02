@@ -1,0 +1,5 @@
+project: askama
+target: all
+cmds:
+  - cmd: /mayhem/all
+    libfuzzer: true

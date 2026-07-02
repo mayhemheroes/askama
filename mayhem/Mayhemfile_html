@@ -1,0 +1,5 @@
+project: askama
+target: html
+cmds:
+  - cmd: /mayhem/html
+    libfuzzer: true

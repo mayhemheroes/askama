@@ -1,0 +1,5 @@
+project: askama
+target: derive
+cmds:
+  - cmd: /mayhem/derive
+    libfuzzer: true

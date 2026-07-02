@@ -1,0 +1,5 @@
+project: askama
+target: filters
+cmds:
+  - cmd: /mayhem/filters
+    libfuzzer: true
